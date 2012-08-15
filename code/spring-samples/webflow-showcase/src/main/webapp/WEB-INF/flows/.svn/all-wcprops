@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows
+END
+embeddedFlowInModalDialogContainer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embeddedFlowInModalDialogContainer.jsp
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/views.xml
+END
+embeddedFlowContainer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embeddedFlowContainer.jsp
+END

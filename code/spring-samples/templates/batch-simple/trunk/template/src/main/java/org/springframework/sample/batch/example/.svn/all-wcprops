@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/src/main/java/org/springframework/sample/batch/example
+END
+ExampleItemReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/src/main/java/org/springframework/sample/batch/example/ExampleItemReader.java
+END
+ExampleItemWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/src/main/java/org/springframework/sample/batch/example/ExampleItemWriter.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/spring-samples/!svn/ver/495/petcare/branches/workshop
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/.project
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spring-samples/!svn/ver/495/petcare/branches/workshop/pom.xml
+END
+log.roo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/log.roo
+END

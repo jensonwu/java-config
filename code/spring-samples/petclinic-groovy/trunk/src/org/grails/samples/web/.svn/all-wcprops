@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web
+END
+ClinicBindingInitializer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/ClinicBindingInitializer.groovy
+END
+PetTypeEditor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/PetTypeEditor.groovy
+END
+EditPetForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/EditPetForm.groovy
+END
+FindOwnersForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/FindOwnersForm.groovy
+END
+EditOwnerForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/EditOwnerForm.groovy
+END
+AddPetForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/AddPetForm.groovy
+END
+ClinicController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/ClinicController.groovy
+END
+AddOwnerForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/AddOwnerForm.groovy
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/package.html
+END
+AddVisitForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/web/AddVisitForm.groovy
+END

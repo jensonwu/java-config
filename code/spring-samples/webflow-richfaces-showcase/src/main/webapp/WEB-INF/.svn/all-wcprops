@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-samples/!svn/ver/577/webflow-richfaces-showcase/src/main/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/web.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/faces-config.xml
+END

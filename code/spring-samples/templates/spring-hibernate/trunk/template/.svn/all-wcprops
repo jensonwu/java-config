@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-samples/!svn/ver/285/templates/spring-hibernate/trunk/template
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-samples/!svn/ver/281/templates/spring-hibernate/trunk/template/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-samples/!svn/ver/281/templates/spring-hibernate/trunk/template/.project
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-samples/!svn/ver/284/templates/spring-hibernate/trunk/template/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-samples/!svn/ver/284/templates/spring-hibernate/trunk/template/pom.xml
+END

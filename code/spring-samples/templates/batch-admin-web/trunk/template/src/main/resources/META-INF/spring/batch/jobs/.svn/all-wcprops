@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/resources/META-INF/spring/batch/jobs
+END
+jobs-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/resources/META-INF/spring/batch/jobs/jobs-context.xml
+END
+infinite-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/META-INF/spring/batch/jobs/infinite-context.xml
+END

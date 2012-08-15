@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-samples/!svn/ver/577/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/same-state
+END
+flow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/same-state/flow.xml
+END
+step1.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-samples/!svn/ver/577/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/same-state/step1.xhtml
+END
+step2.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/same-state/step2.xhtml
+END

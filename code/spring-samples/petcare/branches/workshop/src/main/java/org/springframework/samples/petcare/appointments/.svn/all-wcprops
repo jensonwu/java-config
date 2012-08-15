@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-samples/!svn/ver/493/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments
+END
+Appointment_Roo_JavaBean.aj
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments/Appointment_Roo_JavaBean.aj
+END
+Appointment.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments/Appointment.java
+END
+Appointment_Roo_ToString.aj
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments/Appointment_Roo_ToString.aj
+END
+AppointmentCalendar_Roo_JavaBean.aj
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments/AppointmentCalendar_Roo_JavaBean.aj
+END
+AppointmentCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments/AppointmentCalendar.java
+END
+AppointmentCalendar_Roo_ToString.aj
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/appointments/AppointmentCalendar_Roo_ToString.aj
+END

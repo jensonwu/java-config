@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external/common.xml
+END
+quality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external/quality.xml
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external/package.xml
+END
+artifact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external/artifact.xml
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external/default.xml
+END
+publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/weaving-external/publish.xml
+END

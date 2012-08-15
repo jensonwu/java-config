@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-samples/!svn/ver/404/templates/batch-simple/trunk/template/src/main/resources
+END
+launch-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-samples/!svn/ver/404/templates/batch-simple/trunk/template/src/main/resources/launch-context.xml
+END
+batch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-samples/!svn/ver/404/templates/batch-simple/trunk/template/src/main/resources/batch.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-samples/!svn/ver/404/templates/batch-simple/trunk/template/src/main/resources/log4j.properties
+END

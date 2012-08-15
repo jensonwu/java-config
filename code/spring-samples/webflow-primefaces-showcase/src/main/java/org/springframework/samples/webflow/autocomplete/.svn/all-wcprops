@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-samples/!svn/ver/596/webflow-primefaces-showcase/src/main/java/org/springframework/samples/webflow/autocomplete
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-samples/!svn/ver/596/webflow-primefaces-showcase/src/main/java/org/springframework/samples/webflow/autocomplete/Person.java
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-samples/!svn/ver/596/webflow-primefaces-showcase/src/main/java/org/springframework/samples/webflow/autocomplete/PersonService.java
+END
+FormBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-samples/!svn/ver/596/webflow-primefaces-showcase/src/main/java/org/springframework/samples/webflow/autocomplete/FormBean.java
+END
+PersonConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-samples/!svn/ver/596/webflow-primefaces-showcase/src/main/java/org/springframework/samples/webflow/autocomplete/PersonConverter.java
+END

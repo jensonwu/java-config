@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-samples/!svn/ver/610/webflow-primefaces-showcase/src/main/webapp/WEB-INF/spring
+END
+security-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-samples/!svn/ver/583/webflow-primefaces-showcase/src/main/webapp/WEB-INF/spring/security-config.xml
+END
+root-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-samples/!svn/ver/583/webflow-primefaces-showcase/src/main/webapp/WEB-INF/spring/root-context.xml
+END

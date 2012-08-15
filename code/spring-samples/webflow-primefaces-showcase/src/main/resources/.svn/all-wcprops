@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-samples/!svn/ver/587/webflow-primefaces-showcase/src/main/resources
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-samples/!svn/ver/575/webflow-primefaces-showcase/src/main/resources/log4j.xml
+END
+JsfMessageResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-samples/!svn/ver/587/webflow-primefaces-showcase/src/main/resources/JsfMessageResources.properties
+END
+ValidationMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-samples/!svn/ver/587/webflow-primefaces-showcase/src/main/resources/ValidationMessages.properties
+END

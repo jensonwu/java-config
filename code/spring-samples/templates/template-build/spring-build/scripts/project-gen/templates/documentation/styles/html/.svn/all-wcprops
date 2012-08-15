@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/documentation/styles/html
+END
+titlepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/documentation/styles/html/titlepage.xml
+END
+custom.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/documentation/styles/html/custom.xsl
+END

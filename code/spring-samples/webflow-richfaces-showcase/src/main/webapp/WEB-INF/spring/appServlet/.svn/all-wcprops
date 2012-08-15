@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-samples/!svn/ver/577/webflow-richfaces-showcase/src/main/webapp/WEB-INF/spring/appServlet
+END
+webflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-samples/!svn/ver/577/webflow-richfaces-showcase/src/main/webapp/WEB-INF/spring/appServlet/webflow.xml
+END
+controllers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml
+END
+servlet-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
+END

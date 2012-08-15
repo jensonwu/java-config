@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/util/templating
+END
+StringTemplateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/util/templating/StringTemplateFactory.java
+END
+DefaultStringTemplateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/util/templating/DefaultStringTemplateFactory.java
+END
+StringTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/util/templating/StringTemplate.java
+END
+ObjectToStringTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/java/org/springframework/samples/petcare/util/templating/ObjectToStringTransformer.java
+END

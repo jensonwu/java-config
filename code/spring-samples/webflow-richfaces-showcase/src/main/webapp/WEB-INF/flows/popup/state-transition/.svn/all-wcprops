@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/state-transition
+END
+confirmation.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/state-transition/confirmation.xhtml
+END
+flow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/state-transition/flow.xml
+END
+step1.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/state-transition/step1.xhtml
+END
+step2.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-samples/!svn/ver/575/webflow-richfaces-showcase/src/main/webapp/WEB-INF/flows/popup/state-transition/step2.xhtml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par/package.xml
+END
+artifact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par/artifact.xml
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par/default.xml
+END
+publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par/publish.xml
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par/common.xml
+END
+quality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/par/quality.xml
+END

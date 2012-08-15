@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/web/WEB-INF/classes
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/web/WEB-INF/classes/log4j.properties
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/web/WEB-INF/classes/messages_de.properties
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/web/WEB-INF/classes/messages.properties
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/web/WEB-INF/classes/messages_en.properties
+END

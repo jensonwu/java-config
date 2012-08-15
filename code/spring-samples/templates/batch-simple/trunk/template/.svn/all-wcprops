@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spring-samples/!svn/ver/475/templates/batch-simple/trunk/template
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-samples/!svn/ver/105/templates/batch-simple/trunk/template/.project
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/spring-samples/!svn/ver/475/templates/batch-simple/trunk/template/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/.classpath
+END

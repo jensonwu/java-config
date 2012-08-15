@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.aop-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.aspects-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.context-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.beans-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.context.support-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.core-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.expression-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.instrument-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.instrument.tomcat-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.jdbc-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.jms-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.orm-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.oxm-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.test-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.web-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.transaction-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.web.portlet-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.web.servlet-sources-3.1.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-framework-3.1.1.RELEASE/src/org.springframework.web.struts-sources-3.1.1.RELEASE.jar!/" />
+    </SOURCES>
+  </library>
+</component>

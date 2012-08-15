@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/spring-samples/!svn/ver/77/templates/template-build
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring-samples/!svn/ver/59/templates/template-build/ivysettings.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spring-samples/!svn/ver/77/templates/template-build/plugin.xml
+END

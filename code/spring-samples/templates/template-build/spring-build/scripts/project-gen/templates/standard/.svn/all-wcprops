@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/standard
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/standard/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/standard/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/standard/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/scripts/project-gen/templates/standard/ivy.xml
+END

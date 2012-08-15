@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect/default.xml
+END
+publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect/publish.xml
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect/common.xml
+END
+quality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect/quality.xml
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect/package.xml
+END
+artifact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/aspect/artifact.xml
+END

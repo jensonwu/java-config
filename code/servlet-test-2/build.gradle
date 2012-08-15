@@ -1,0 +1,14 @@
+apply plugin:"java"
+apply plugin:"war"
+apply plugin:"jetty"
+apply plugin:"idea"
+
+dependencies {
+	providedCompile 'org.apache.tomcat:tomcat-servlet-api:7.0.27'
+}
+
+repositories {
+    maven {
+        url "http://artifactory.liba.net:8081/artifactory/repo"
+    }
+}

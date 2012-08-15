@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/spring-samples/!svn/ver/615/webflow-primefaces-showcase
+END
+.springWebflow
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-samples/!svn/ver/583/webflow-primefaces-showcase/.springWebflow
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/spring-samples/!svn/ver/596/webflow-primefaces-showcase/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spring-samples/!svn/ver/615/webflow-primefaces-showcase/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-samples/!svn/ver/615/webflow-primefaces-showcase/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spring-samples/!svn/ver/583/webflow-primefaces-showcase/.project
+END

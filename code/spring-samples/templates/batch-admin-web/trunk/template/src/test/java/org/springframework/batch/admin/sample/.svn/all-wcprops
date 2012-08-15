@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/test/java/org/springframework/batch/admin/sample
+END
+ExampleItemWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/test/java/org/springframework/batch/admin/sample/ExampleItemWriterTests.java
+END
+BootstrapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/test/java/org/springframework/batch/admin/sample/BootstrapTests.java
+END
+ExampleItemReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/test/java/org/springframework/batch/admin/sample/ExampleItemReaderTests.java
+END
+JobExecutionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/test/java/org/springframework/batch/admin/sample/JobExecutionTests.java
+END
+JobIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/test/java/org/springframework/batch/admin/sample/JobIntegrationTests.java
+END

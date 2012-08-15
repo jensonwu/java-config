@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-samples/!svn/ver/590/templates/mvc/trunk/template/.settings
+END
+org.eclipse.wst.validation.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/42/templates/mvc/trunk/template/.settings/org.eclipse.wst.validation.prefs
+END
+org.maven.ide.eclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/spring-samples/!svn/ver/42/templates/mvc/trunk/template/.settings/org.maven.ide.eclipse.prefs
+END
+org.eclipse.wst.common.component
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-samples/!svn/ver/221/templates/mvc/trunk/template/.settings/org.eclipse.wst.common.component
+END
+org.springframework.ide.eclipse.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-samples/!svn/ver/435/templates/mvc/trunk/template/.settings/org.springframework.ide.eclipse.core.prefs
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-samples/!svn/ver/42/templates/mvc/trunk/template/.settings/org.eclipse.jdt.core.prefs
+END
+org.springframework.ide.eclipse.beans.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-samples/!svn/ver/590/templates/mvc/trunk/template/.settings/org.springframework.ide.eclipse.beans.core.prefs
+END
+org.eclipse.wst.common.project.facet.core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-samples/!svn/ver/42/templates/mvc/trunk/template/.settings/org.eclipse.wst.common.project.facet.core.xml
+END
+com.springsource.server.ide.jdt.core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-samples/!svn/ver/42/templates/mvc/trunk/template/.settings/com.springsource.server.ide.jdt.core.xml
+END
+org.eclipse.jst.common.project.facet.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-samples/!svn/ver/42/templates/mvc/trunk/template/.settings/org.eclipse.jst.common.project.facet.core.prefs
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/resources/META-INF/spring/batch/servlet/override
+END
+service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/resources/META-INF/spring/batch/servlet/override/service-context.xml
+END

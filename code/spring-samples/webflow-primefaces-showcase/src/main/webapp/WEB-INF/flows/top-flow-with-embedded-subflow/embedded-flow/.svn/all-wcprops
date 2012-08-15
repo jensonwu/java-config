@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-samples/!svn/ver/607/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow
+END
+main.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-samples/!svn/ver/607/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/main.xhtml
+END
+confirmation.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-samples/!svn/ver/607/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/confirmation.xhtml
+END
+flow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-samples/!svn/ver/607/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/top-flow-with-embedded-subflow/embedded-flow/flow.xml
+END

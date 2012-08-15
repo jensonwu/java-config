@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow-in-modal-dialog
+END
+flow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow-in-modal-dialog/flow.xml
+END
+step1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow-in-modal-dialog/step1.jsp
+END
+step2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow-in-modal-dialog/step2.jsp
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow-in-modal-dialog/views.xml
+END

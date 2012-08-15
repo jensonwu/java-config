@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/test/resources/org/springframework/batch/admin/sample
+END
+JobExecutionTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/test/resources/org/springframework/batch/admin/sample/JobExecutionTests-context.xml
+END
+JobIntegrationTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/test/resources/org/springframework/batch/admin/sample/JobIntegrationTests-context.xml
+END

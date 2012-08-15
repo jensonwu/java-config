@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-samples/!svn/ver/263/task-basic/trunk/src/main/java/org/springframework/samples/task/basic/annotation
+END
+AsyncWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-samples/!svn/ver/262/task-basic/trunk/src/main/java/org/springframework/samples/task/basic/annotation/AsyncWorker.java
+END
+AnnotationDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-samples/!svn/ver/263/task-basic/trunk/src/main/java/org/springframework/samples/task/basic/annotation/AnnotationDemo.java
+END
+ScheduledProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-samples/!svn/ver/262/task-basic/trunk/src/main/java/org/springframework/samples/task/basic/annotation/ScheduledProcessor.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-samples/!svn/ver/281/templates/spring-hibernate/trunk/.settings
+END
+org.springframework.ide.eclipse.beans.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-samples/!svn/ver/281/templates/spring-hibernate/trunk/.settings/org.springframework.ide.eclipse.beans.core.prefs
+END
+org.maven.ide.eclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/281/templates/spring-hibernate/trunk/.settings/org.maven.ide.eclipse.prefs
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-samples/!svn/ver/281/templates/spring-hibernate/trunk/.settings/org.eclipse.jdt.core.prefs
+END

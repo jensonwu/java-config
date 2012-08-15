@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-samples/!svn/ver/589/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/validation-bean
+END
+flow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-samples/!svn/ver/589/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/validation-bean/flow.xml
+END
+review.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/585/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/validation-bean/review.xhtml
+END
+edit.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-samples/!svn/ver/585/webflow-primefaces-showcase/src/main/webapp/WEB-INF/flows/validation-bean/edit.xhtml
+END

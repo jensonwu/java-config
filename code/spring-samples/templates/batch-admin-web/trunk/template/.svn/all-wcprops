@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/.project
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/pom.xml
+END

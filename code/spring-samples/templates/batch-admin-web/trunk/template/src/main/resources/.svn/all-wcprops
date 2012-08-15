@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/resources
+END
+batch-default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/batch-default.properties
+END
+batch-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/batch-mysql.properties
+END
+batch-hsql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/batch-hsql.properties
+END
+business-schema-hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/business-schema-hsqldb.sql
+END
+business-schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/business-schema-mysql.sql
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/resources/log4j.properties
+END

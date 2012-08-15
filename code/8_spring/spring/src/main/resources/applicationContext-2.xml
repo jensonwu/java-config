@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+            http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.1.xsd">
+
+    <bean id="lifeEventCallbackSample1"
+          class="com.liba.sample2.LifeEventCallBackSample"
+          init-method="init"
+          destroy-method="destroy"
+          lazy-init="true"
+    >
+        <property name="name" value="lifeEventCallbackSample1"/>
+    </bean>
+
+    <bean id="lifeEventCallbackSample2"
+          class="com.liba.sample2.LifeEventCallBackSample"
+          init-method="init"
+          destroy-method="destroy"
+    >
+        <property name="name" value="lifeEventCallbackSample2"/>
+    </bean>
+</beans>

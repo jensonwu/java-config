@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/webapp/WEB-INF/views/users
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/webapp/WEB-INF/views/users/tiles.xml
+END
+signin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-samples/!svn/ver/484/petcare/branches/workshop/src/main/webapp/WEB-INF/views/users/signin.jsp
+END

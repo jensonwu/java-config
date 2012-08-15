@@ -1,0 +1,67 @@
+10
+
+dir
+632
+https://src.springsource.org/svn/spring-build/tags/project-build-2.1.4
+https://src.springsource.org/svn/spring-build
+
+
+
+2009-04-22T16:03:57.895433Z
+632
+bhale
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+0d18af04-3a3a-0410-bc78-8d296213d546
+
+common
+dir
+
+war
+dir
+
+aspect
+dir
+
+docbook
+dir
+
+standard
+dir
+
+weaving
+dir
+
+weaving-external
+dir
+
+multi-bundle
+dir
+
+par
+dir
+
+library
+dir
+
+lib
+dir
+
+resource
+dir
+
+scripts
+dir
+

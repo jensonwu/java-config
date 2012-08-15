@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/java/org/springframework/batch/admin/sample
+END
+ExampleItemWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/java/org/springframework/batch/admin/sample/ExampleItemWriter.java
+END
+StepLocatorStepFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-samples/!svn/ver/609/templates/batch-admin-web/trunk/template/src/main/java/org/springframework/batch/admin/sample/StepLocatorStepFactoryBean.java
+END
+ExampleItemReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/java/org/springframework/batch/admin/sample/ExampleItemReader.java
+END
+TrivialJobParametersIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-samples/!svn/ver/594/templates/batch-admin-web/trunk/template/src/main/java/org/springframework/batch/admin/sample/TrivialJobParametersIncrementer.java
+END

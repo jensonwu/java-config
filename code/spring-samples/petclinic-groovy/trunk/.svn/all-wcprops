@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/build.xml
+END
+pet-clinic.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/pet-clinic.ipr
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/ivysettings.xml
+END
+pet-clinic.iml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/pet-clinic.iml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/README.txt
+END

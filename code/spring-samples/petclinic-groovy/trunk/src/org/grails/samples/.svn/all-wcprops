@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples
+END
+Vet.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/Vet.groovy
+END
+Visit.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/Visit.groovy
+END
+Person.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/Person.groovy
+END
+Speciality.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/Speciality.groovy
+END
+Pet.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/Pet.groovy
+END
+Owner.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/Owner.groovy
+END
+PetType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-samples/!svn/ver/44/petclinic-groovy/trunk/src/org/grails/samples/PetType.groovy
+END

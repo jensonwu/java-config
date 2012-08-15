@@ -1,0 +1,16 @@
+K 13
+svn:externals
+V 90
+spring-build -r632 https://src.springsource.org/svn/spring-build/tags/project-build-2.1.4
+
+K 10
+svn:ignore
+V 27
+integration-repo
+ivy-cache
+
+K 13
+svn:mergeinfo
+V 0
+
+END

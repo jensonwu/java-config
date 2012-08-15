@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/spring-samples/!svn/ver/396/templates/spring-jpa/trunk
+END
+wizard.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-samples/!svn/ver/283/templates/spring-jpa/trunk/wizard.json
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring-samples/!svn/ver/283/templates/spring-jpa/trunk/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spring-samples/!svn/ver/283/templates/spring-jpa/trunk/pom.xml
+END
+template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring-samples/!svn/ver/396/templates/spring-jpa/trunk/template.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spring-samples/!svn/ver/339/templates/spring-jpa/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spring-samples/!svn/ver/283/templates/spring-jpa/trunk/.project
+END

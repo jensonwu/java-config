@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy
+END
+org.springframework.build.aws.ivy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/org.springframework.build.aws.ivy.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/commons-codec.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/commons-httpclient.jar
+END
+ivy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/ivy.jar
+END
+current.version
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/current.version
+END
+jets3t.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/jets3t.jar
+END
+jets3t.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/jets3t.properties
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-build/!svn/ver/632/tags/project-build-2.1.4/lib/ivy/commons-logging.jar
+END

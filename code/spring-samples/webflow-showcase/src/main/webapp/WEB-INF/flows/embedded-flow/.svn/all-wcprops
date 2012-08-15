@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow
+END
+success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow/success.jsp
+END
+flow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow/flow.xml
+END
+step1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow/step1.jsp
+END
+step2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow/step2.jsp
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow/views.xml
+END
+cancel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-samples/!svn/ver/608/webflow-showcase/src/main/webapp/WEB-INF/flows/embedded-flow/cancel.jsp
+END

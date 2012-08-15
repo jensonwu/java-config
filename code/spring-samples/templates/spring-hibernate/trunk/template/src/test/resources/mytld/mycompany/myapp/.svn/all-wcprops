@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-samples/!svn/ver/284/templates/spring-hibernate/trunk/template/src/test/resources/mytld/mycompany/myapp
+END
+OrderPersistenceTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-samples/!svn/ver/284/templates/spring-hibernate/trunk/template/src/test/resources/mytld/mycompany/myapp/OrderPersistenceTests-context.xml
+END

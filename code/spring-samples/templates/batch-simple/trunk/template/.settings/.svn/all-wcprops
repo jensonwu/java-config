@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/.settings
+END
+org.springframework.ide.eclipse.beans.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/.settings/org.springframework.ide.eclipse.beans.core.prefs
+END
+org.springframework.ide.eclipse.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/.settings/org.springframework.ide.eclipse.core.prefs
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-samples/!svn/ver/36/templates/batch-simple/trunk/template/.settings/org.eclipse.jdt.core.prefs
+END

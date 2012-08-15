@@ -1,0 +1,60 @@
+apply plugin: "java"
+apply plugin: "war"
+apply plugin: "idea"
+apply plugin: "jetty"
+
+dependencies {
+    compile "org.springframework:spring-webmvc:3.1.2.RELEASE"
+    compile "org.apache.tomcat:tomcat-servlet-api:7.0.28"
+    runtime "cglib:cglib:2.2.2"
+}
+
+repositories {
+    maven {
+        url "http://artifactory.liba.net:8081/artifactory/repo"
+    }
+}
+
+
+
+//START warExplode
+task warExplode(dependsOn: 'classes') << {
+    def libDir = new File(projectDir, "/src/main/webapp/WEB-INF/lib")
+    def classesDir = new File(projectDir, "/src/main/webapp/WEB-INF/classes")
+    def libsPath = project.configurations.runtime.asPath
+
+    ant {
+        mkdir(dir: libDir)
+        copy(toDir: libDir, flatten:true) {
+            path (path: libsPath)
+        }
+        mkdir(dir: classesDir)
+        copy(toDir: classesDir) {
+            fileset(dir: new File(projectDir, "build/classes/main/"))
+            fileset(dir: new File(projectDir, "src/main/resources"))
+        }
+    }
+}
+
+task cleanExplode << {
+    def libDir = new File(projectDir, "/src/main/webapp/WEB-INF/lib")
+    def classesDir = new File(projectDir, "/src/main/webapp/WEB-INF/classes")
+    ant {
+        delete(dir: libDir)
+        delete(dir: classesDir)
+    }
+}
+
+task updateExplode(dependsOn: 'classes') << {
+    def classesDir = new File(projectDir, "/src/main/webapp/WEB-INF/classes")
+    ant {
+        mkdir(dir: classesDir)
+        copy(toDir: classesDir) {
+            fileset(dir: new File(projectDir, "build/classes/main/"))
+            fileset(dir: new File(projectDir, "src/main/resources"))
+        }
+    }
+}
+
+clean.dependsOn(cleanExplode)
+//END warExplode
